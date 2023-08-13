@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MANIVENKATRAJ</h1>
 <h3 align="center">Hello!, I'am a UI UX Deigner and Mern Stack Developer</h3>
-<img align="right" alt="img" with="50" src="[https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3hUrX0bRbnnMt3Hkc5bfSO&ust=1692020396615000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCqjqnh2YADFQAAAAAdAAAAABA4)">
+<img align="right" alt="img" with="500" src="[https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3hUrX0bRbnnMt3Hkc5bfSO&ust=1692020396615000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCqjqnh2YADFQAAAAAdAAAAABA4)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mp143mani&label=Profile%20views&color=0e75b6&style=flat" alt="mp143mani" /> </p>
 
