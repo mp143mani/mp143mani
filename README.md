@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MANIVENKATRAJ</h1>
 <h3 align="center">Hello!, I'am a UI UX Deigner and Mern Stack Developer</h3>
-<img align="right" alt="img" with="500" src="[https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3hUrX0bRbnnMt3Hkc5bfSO&ust=1692020396615000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCqjqnh2YADFQAAAAAdAAAAABA4)">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mp143mani&label=Profile%20views&color=0e75b6&style=flat" alt="mp143mani" /> </p>
 
@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Development**
+- 👨🏻‍💻 I’m currently learning **Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://manivenkatrajm.netlify.app/](https://manivenkatrajm.netlify.app/)
 
-- 💬 💬 I think I can learn **Flutter, Machine Learning**
+-  🤔 I think I can learn **Flutter, Machine Learning**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13XlaiLiCrc8G_JnZBsopX9Ci9oh4_utV/view?usp=sharing](https://drive.google.com/file/d/13XlaiLiCrc8G_JnZBsopX9Ci9oh4_utV/view?usp=sharing)
+- 📄 Know about my CV [https://drive.google.com/file/d/13XlaiLiCrc8G_JnZBsopX9Ci9oh4_utV/view?usp=sharing](https://drive.google.com/file/d/13XlaiLiCrc8G_JnZBsopX9Ci9oh4_utV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
