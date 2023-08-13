@@ -50,13 +50,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Development**
+- 👨🏽‍💻 I’m currently learning **Backend Development**-----------------------
 
-- 👨‍💻 All of my projects are available at [https://manivenkatrajm.netlify.app/](https://manivenkatrajm.netlify.app/)
+- 💻 All of my projects are available at [https://manivenkatrajm.netlify.app/](https://manivenkatrajm.netlify.app/)-----------------------
 
-- 💬 💬 I think I can learn **Flutter, Machine Learning**
+- 🤔 I think I can learn- **Flutter, Machine Learning**-----------------------
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13XlaiLiCrc8G_JnZBsopX9Ci9oh4_utV/view?usp=sharing](https://drive.google.com/file/d/13XlaiLiCrc8G_JnZBsopX9Ci9oh4_utV/view?usp=sharing)
+- 📃 Know about my CV [https://drive.google.com/file/d/13XlaiLiCrc8G_JnZBsopX9Ci9oh4_utV/view?usp=sharing](https://drive.google.com/file/d/13XlaiLiCrc8G_JnZBsopX9Ci9oh4_utV/view?usp=sharing)**-----------------------
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
