@@ -2,7 +2,7 @@
 <h1 align="center">
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/ajay-84sia">MANIVENKATRAJ M</a>!
 </h1> 
-<h2 align="center">A passionate full stack web developer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
+<h2 align="center">A passionate UI UX Deigner and full stack web developer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
 
 --Frontend : My toolbox includes HTML, CSS, and JavaScript, which I artfully employ to construct captivating and user-friendly interfaces. With expertise in ReactJS and Redux, I bring forth dynamic and responsive elements that breathe life into each application. Bootstrap is another tool in my arsenal that I utilize to streamline development while ensuring a polished and adaptive design.
 
