@@ -53,7 +53,7 @@
 
 - 🤔 I think I can learn- **Flutter, Machine Learning**-----------------------
 
-- 📃 Know about my CV [https://drive.google.com/file/d/13XlaiLiCrc8G_JnZBsopX9Ci9oh4_utV/view?usp=sharing](https://drive.google.com/file/d/13XlaiLiCrc8G_JnZBsopX9Ci9oh4_utV/view?usp=sharing)**-----------------------
+- 📃 Know about my CV [[https://drive.google.com/file/d/13XlaiLiCrc8G_JnZBsopX9Ci9oh4_utV/view?usp=sharing](https://drive.google.com/file/d/1wNo0wTkwsW6fkYwuP8YoEEKjzI15VBGe/view)](https://drive.google.com/file/d/13XlaiLiCrc8G_JnZBsopX9Ci9oh4_utV/view?usp=sharing)**-----------------------
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
