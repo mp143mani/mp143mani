@@ -2,14 +2,11 @@
 <h1 align="center">
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/ajay-84sia">MANIVENKATRAJ M</a>!
 </h1> 
-<h2 align="center">A passionate UI UX Deigner and full stack web developer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
+<h2 align="center">A passionateand full stack web developer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
 
 --Frontend : My toolbox includes HTML, CSS, and JavaScript, which I artfully employ to construct captivating and user-friendly interfaces. With expertise in ReactJS and Redux, I bring forth dynamic and responsive elements that breathe life into each application. Bootstrap is another tool in my arsenal that I utilize to streamline development while ensuring a polished and adaptive design.
 
 --Backend : My backend proficiency extends to Node.js, a potent framework that forms the backbone of my powerful and efficient server-side environments. Seamlessly integrating MongoDB and MySQL databases, I manage and store data seamlessly, optimizing performance and ensuring data integrity.
-
-
---UI/UX : Beyond coding, I possess a discerning eye for UI/UX design principles. Recognizing the pivotal role of aesthetics and usability in crafting beloved applications, I skillfully merge my technical acumen with UI/UX design sensibilities. Figma serves as my canvas, allowing me to thoughtfully design every facet of the user journey, resulting in a seamless and visually appealing experience.
 
 
 
